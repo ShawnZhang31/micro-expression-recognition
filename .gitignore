@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vscode debug
+.vscode/
+
+# datasets
+datasets/CAS(ME)^2/CASME-SQUARE/*
+!datasets/CAS(ME)^2/CASME-SQUARE/.gitkeep
+
+datasets/SAMM_MEGC/SMIC/*
+!datasets/SAMM_MEGC/SMIC/.gitkeep
