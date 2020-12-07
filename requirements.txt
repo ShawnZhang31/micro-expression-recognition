@@ -3,6 +3,7 @@ matplotlib
 scikit-learn
 opencv-contrib-python
 dlib
+tensorflow==1.14.0
 Keras==2.0.0
 imageio
 flake8
