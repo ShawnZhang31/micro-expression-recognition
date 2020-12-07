@@ -4,4 +4,6 @@ scikit-learn
 opencv-contrib-python
 dlib
 Keras==2.0.0
+imageio
+flake8
 pytest
